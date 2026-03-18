@@ -1,0 +1,35 @@
+	package jade.com;
+
+public class TipoDatoVariable {
+	public void tipoDatoPrimitivo() {
+		//Tipos de datos enteros
+		byte edad = 25; //-128 a 127 
+		short temperatura = -200; // -32768
+		int poblacion = 1000000; //4 Cifras
+		long poblacionMundial = 78000000000L;
+		
+		//Tipos de datos con Punto Flotante
+		float precio = 99.99f;
+		double pi = 3.1416; 
+		
+		//Tipo de dato CHAR
+		//Almacena un unico Caracter
+		char letra = 'D';
+		char comillaSimple = '"';
+		
+		//Tipo de dato Booleano
+		boolean esActivo = true;
+		
+		//Imprimiendo Datos
+		System.out.println(edad);
+		System.out.println(precio);
+	}
+	
+	
+	
+	public static void main(String[] args){
+		TipoDatoVariable tdv = new TipoDatoVariable();
+		tdv.tipoDatoPrimitivo();
+	}
+
+}
