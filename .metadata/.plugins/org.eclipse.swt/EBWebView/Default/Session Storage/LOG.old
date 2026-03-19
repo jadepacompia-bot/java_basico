@@ -1,3 +1,2 @@
-2026/03/17-14:43:22.766 3edc Reusing MANIFEST C:\jade\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
-2026/03/17-14:43:22.767 3edc Recovering log #3
-2026/03/17-14:43:22.768 3edc Reusing old log C:\jade\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+2026/03/19-11:59:53.065 1af4 Creating DB C:\jade\java\java_basico\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage since it was missing.
+2026/03/19-11:59:53.094 1af4 Reusing MANIFEST C:\jade\java\java_basico\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
